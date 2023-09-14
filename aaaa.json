@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "nome": "Senhor Teste",
+        "email": "emailteste@example.com",
+        "fone": "15 987654321",
+        "data_nascimento": "1970-01-01T03:00:00.000Z",
+        "cpf": "427154352",
+        "setor": "RH",
+        "cargo": "lider"
+    },
+    {
+        "id": 2,
+        "nome": "Josévaldo",
+        "email": "josevaldin@example.com",
+        "fone": "15 1551689",
+        "data_nascimento": "1910-12-12T03:00:00.000Z",
+        "cpf": "12345678910",
+        "setor": "TI",
+        "cargo": "assistente de TI"
+    }
+]
